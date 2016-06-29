@@ -9,7 +9,7 @@ permalink: /about/
 <div class="manual manual-title">
   Posting
   </div>
-<p>  <div class="manual-content">
+<div class="manual-content">
 
       - Create a .markdown file inside <code class="highlighter-rouge">_posts</code> folder.<br />
       - Name the file according to the format YY-MM-DD-[short name for your post].<br />
@@ -44,14 +44,14 @@ permalink: /about/
 
 
 
-</p>
+
 </div>
-<p><br /></p>
+
 
   <div class="manual manual-title">
   Create Pages
   </div>
-<p>  <div class="manual-content">
+<div class="manual-content">
 
       - Create a .md file in the root directory.<br />
       - Name the file with the desired page link name.<br />
@@ -84,4 +84,4 @@ permalink: /about/
 
 
   </div>
-</p>
+
