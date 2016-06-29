@@ -1,3 +1,7 @@
+---
+layout: page
+title: License
+---
 The MIT License (MIT)
 
 Copyright (c) 2016 Hemang Kumar
