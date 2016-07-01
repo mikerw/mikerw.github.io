@@ -19,11 +19,7 @@
   padding: 0.5em; }
 
 body {
-<<<<<<< HEAD
   background-color: #03a4fb !important;
-=======
-  background-color: #022335 !important;
->>>>>>> master
   font-family: "Fira Mono" !important;
   color: #abc0ca !important; }
 
@@ -135,11 +131,7 @@ code {
 .highlight {
   background: red; }
   .highlighter-rouge .highlight {
-<<<<<<< HEAD
     background: red !important;
-=======
-    background: black !important;
->>>>>>> master
     color: white !important; }
   .highlight .c {
     color: #998;
