@@ -3,8 +3,14 @@
 ---
 @charset "utf-8";
 
+$maroon: #740001;
+
+h1{
+  font-size: 30pt !important;
+}
+
 .navbar-default{
-  background: #093750 !important;
+  background: $maroon !important;
   border: none !important;
 
 }
@@ -29,7 +35,7 @@
   padding: 0.5em;
 }
 body{
-  background-color: #03a4fb !important;
+  background-color: #F9A114 !important;
   font-family: "Fira Mono" !important;
   color: #abc0ca !important;
 }
@@ -52,9 +58,10 @@ body{
 .page-stuff{
   padding-top: 2em;
   padding-bottom: 5em;
+  color: #191919;
 }
 .jumbotron {
-  background: #093750 !important;
+  background: #9B0017 !important;
 }
 a {
     color: #03a4fb;
@@ -75,11 +82,12 @@ a:hover{
 .post-box{
   padding-top: 2em;
 padding-bottom: 2em;
+  color: #d3a625;
 }
 
 .post-title{
   font-size: 20px !important;
-color:  #abc0ca !important;
+color:  #191919 !important;
 }
 
 .post-excerpt{
@@ -95,6 +103,7 @@ padding-bottom: 0.3em;
   font-size: 19px;
   text-align: justify;
   padding-bottom: 5em;
+  color: #191919;
 }
 pre{
 background-color: black !important;
@@ -120,6 +129,9 @@ code{
 text-align: center;
 }
 
+.posted{
+  color: #191919;
+}
 .download{
   padding:2em;
   font-size: 19px;

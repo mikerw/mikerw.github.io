@@ -29,14 +29,14 @@ layout: default
 
         {{ post.date | date: "%A, %B %-d, %Y" }}
       </span>
-      <span class="in">
-        in
+ <!--     <span class="in">
+       in
       </span>
       <span class="categories-on">
         {% for category in post.categories%}
         {{category}} &nbsp;{% if forloop.last %}{% else %},{% endif %}
         {% endfor %}
-      </span>
+      </span>-->
     </div>
   </div>
   {% endfor %}
