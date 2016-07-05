@@ -9,9 +9,11 @@
 
 }
 
+//font color
 .navbar-default .navbar-nav > li > a{
     color:#abc0ca !important;
 }
+//hover over link color
 .navbar-default .navbar-nav > li > a:hover{
     color:#03a4fb !important;
 
@@ -27,7 +29,7 @@
   padding: 0.5em;
 }
 body{
-  background-color: #022335 !important;
+  background-color: #03a4fb !important;
   font-family: "Fira Mono" !important;
   color: #abc0ca !important;
 }
