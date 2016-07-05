@@ -1,8 +1,3 @@
----
-layout: page
-title: License
-permalink: /license/
----
 The MIT License (MIT)
 
 Copyright (c) 2016 Hemang Kumar
