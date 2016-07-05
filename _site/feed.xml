@@ -5,9 +5,20 @@
     <description>&lt;h3&gt;Hello, world!&lt;/h3&gt;&lt;h1&gt;INLS161&lt;/h1&gt;&lt;h3&gt;This will be my sight for studying abroad in Thailand!&lt;/h3&gt;Weee!!</description>
     <link>http://hemangsk.github.io/</link>
     <atom:link href="http://hemangsk.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Jul 2016 12:52:35 -0400</pubDate>
-    <lastBuildDate>Fri, 01 Jul 2016 12:52:35 -0400</lastBuildDate>
+    <pubDate>Mon, 04 Jul 2016 22:20:02 -0400</pubDate>
+    <lastBuildDate>Mon, 04 Jul 2016 22:20:02 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>INSL161 Assignment 2 Post</title>
+        <description>&lt;p&gt;The purpose of this website is for my study abroad trip to Thailand.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+        <link>http://hemangsk.github.io/2016/07/01/INLS-post-1.html</link>
+        <guid isPermaLink="true">http://hemangsk.github.io/2016/07/01/INLS-post-1.html</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>
