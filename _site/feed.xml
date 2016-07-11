@@ -5,8 +5,8 @@
     <description>&lt;h1&gt;Study Abroad - Thailand Spring &#39;17&lt;/h1&gt;&lt;h3&gt;Mike Wallace&lt;/h3&gt;&lt;h4&gt;UNC Chapel Hill&lt;/h4&gt;</description>
     <link>http://hemangsk.github.io/</link>
     <atom:link href="http://hemangsk.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Jul 2016 13:58:51 -0400</pubDate>
-    <lastBuildDate>Mon, 11 Jul 2016 13:58:51 -0400</lastBuildDate>
+    <pubDate>Mon, 11 Jul 2016 14:03:44 -0400</pubDate>
+    <lastBuildDate>Mon, 11 Jul 2016 14:03:44 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -17,6 +17,9 @@
 DOCX: &lt;a href=&quot;https://github.com/mikerw/assignment-3-convert-some-documents-mikerw/blob/master/textfile.docx?raw=true&quot;&gt;https://github.com/mikerw/assignment-3-convert-some-documents-mikerw/blob/master/textfile.docx?raw=true&lt;/a&gt;&lt;br /&gt;
 ODT: &lt;a href=&quot;https://github.com/mikerw/assignment-3-convert-some-documents-mikerw/blob/master/textfile.odt?raw=true&quot;&gt;https://github.com/mikerw/assignment-3-convert-some-documents-mikerw/blob/master/textfile.odt?raw=true&lt;/a&gt;&lt;br /&gt;
 PDF: &lt;a href=&quot;https://github.com/mikerw/assignment-3-convert-some-documents-mikerw/blob/master/textfile.pdf&quot;&gt;https://github.com/mikerw/assignment-3-convert-some-documents-mikerw/blob/master/textfile.pdf&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;And here is a link to the script that made these files so easily:&lt;br /&gt;
+&lt;a href=&quot;https://github.com/mikerw/assignment-3-convert-some-documents-mikerw/blob/master/mikerw-convert-docs.sh&quot;&gt;https://github.com/mikerw/assignment-3-convert-some-documents-mikerw/blob/master/mikerw-convert-docs.sh&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Jul 2016 00:00:00 -0400</pubDate>
         <link>http://hemangsk.github.io/2016/07/11/assignment-3-post.html</link>
