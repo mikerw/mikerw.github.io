@@ -9,5 +9,5 @@ a presentation generator such as PowerPoint.
 
 Our presentation is about the ever-so-important and life-changing events currently underway between Kanye and Kim West and Taylor Swift.
 
-The presentation speaks for itself. Here is a link. Check it out!
+The presentation speaks for itself. Here is a link. Check it out! (Navigate with left/right arrow keys)
 [The Downfall of Taylor Swift](https://dariseejr.github.io/task-6-be-presentable/#/)
